@@ -1,0 +1,7 @@
+fonts - https://www.fontspace.com/herofonts/nightmare-pills (font.ttf) and https://www.fontspace.com/freaky-fonts/emulogic (emulogic.ttf)
+graphics library - Pygame - https://www.pygame.org
+pathfinding algorithm - https://github.com/brean/python-pathfinding
+easygui - easygui.sourceforge.net
+art - Map tiles: Me, Characters: Amalia Harris (sister), Items: Me
+code - original Python 3.5 w/ std libs
+music - Darren Curtis: Danger Around the Corner

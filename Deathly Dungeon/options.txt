@@ -1,0 +1,1 @@
+{'victims': '5', 'killers': '1'}
